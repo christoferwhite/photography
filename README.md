@@ -1,2 +1,2 @@
-# Photography ![OpenCollective](https://opencollective.com/photography/tiers/backer/badge.svg?label=backer&color=brightgreen)
-A jekyll website for my photogrophy
+# Photography site
+A jekyll website for my photogrophy, all credit goes too [Rampatra](https://github.com/rampatra) for this awsome jekyll template
